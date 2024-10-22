@@ -13,18 +13,22 @@ ul {
     color: black;
     font-weight: bold;
     font-size: 80px;
-    text-align: center;
+    
 }
 
 #recipes {
     font-size: 100px;
 }
 
-.div .ingredients {
-    font-size: 10px;
+#ingredients {
+    font-size: 30px;
+    font-weight: lighter;
 }
 
 img {
     height: 600px;
     width: 600px;
+    display:block;
+    margin:auto;
 }
+
