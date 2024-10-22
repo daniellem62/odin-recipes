@@ -32,3 +32,16 @@ img {
     margin:auto;
 }
 
+.heading {
+    font-size: 100px;
+    color: darkcyan;
+    background-color: bisque;
+    font-family: cursive;
+}
+
+p {
+    font-size: 40px;
+    font-family: cursive;
+
+}
+
