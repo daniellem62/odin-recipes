@@ -1,5 +1,7 @@
 /* styles.css*/
 
+* {background-color: lightgrey;}
+
 h1 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
@@ -15,6 +17,17 @@ ul {
     font-size: 80px;
     
 }
+
+div {
+    font-size: 40px;
+    font-family: cursive;
+    text-align: justify;
+    margin: 100px;
+    
+
+
+}
+
 
 #recipes {
     font-size: 100px;
@@ -37,11 +50,6 @@ img {
     color: darkcyan;
     background-color: bisque;
     font-family: cursive;
-}
-
-p {
-    font-size: 40px;
-    font-family: cursive;
-
+    border-style: solid;
 }
 
