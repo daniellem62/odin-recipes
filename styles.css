@@ -2,12 +2,19 @@
 
 * {background-color: lightgrey;}
 
+
 h1 {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Norse";
     text-align: center;
+
     color: darkcyan;
-    font-size: 200px;
+    font-size: 80px;
     background-color: bisque;
+    padding: 100px;
+    margin: 50px;
+    display: block;
+    
+    
 
 }
 
@@ -15,14 +22,27 @@ ul {
     color: black;
     font-weight: bold;
     font-size: 80px;
+    text-align: center;
+    padding: 50px;
+    background-color: bisque;
+    margin: 200px;
+    display: block;
+    box-sizing: border-box;
+
+    
+    
     
 }
 
 div {
-    font-size: 40px;
+    font-size: 20px;
     font-family: cursive;
     text-align: justify;
     margin: 100px;
+    background-color: bisque;
+    display: block;
+    padding: 20px;
+
     
 
 
@@ -51,6 +71,7 @@ img {
     background-color: bisque;
     font-family: cursive;
     border-style: solid;
+    text-align: center;
 }
 
 h5 {
